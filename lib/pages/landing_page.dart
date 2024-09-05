@@ -39,6 +39,13 @@ class _LandingPageState extends State<LandingPage> {
                     : Colors.transparent,
               ),
             ),
+            Text(
+              'data',
+              style: TextStyle(
+                fontSize: 61,
+                fontWeight: FontWeight.w400,
+              ),
+            )
           ],
         ),
       );
